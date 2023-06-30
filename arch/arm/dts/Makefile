@@ -223,6 +223,7 @@ dtb-$(CONFIG_ARCH_MESON) += \
 	meson-g12b-radxa-zero2.dtb \
 	meson-sm1-bananapi-m2-pro.dtb \
 	meson-sm1-bananapi-m5.dtb \
+	meson-sm1-h96-max.dts \
 	meson-sm1-khadas-vim3l.dtb \
 	meson-sm1-odroid-c4.dtb \
 	meson-sm1-odroid-hc4.dtb \
